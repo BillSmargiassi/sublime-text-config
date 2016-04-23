@@ -6,19 +6,14 @@
 	],
 	"installed_packages":
 	[
-		"CMS Made Simple Snippets",
-		"CSV",
-		"ExcelExec",
 		"Gist",
 		"Git",
 		"HTML Export",
-		"MarkdownEditing",
+		"Markdown Extended",
 		"Marked App Menu",
 		"Package Control",
 		"ReadmePlease",
-		"SublimeEvernote",
 		"SublimeLinter",
-		"Table Editor",
 		"Theme - Soda",
 		"Todo"
 	]
