@@ -1,13 +1,18 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"bold_folder_labels": true,
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_to_bracket": true,
 	"save_on_focus_lost": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
+	"trim_automatic_white_space": true,
 	"word_wrap": true
 }
