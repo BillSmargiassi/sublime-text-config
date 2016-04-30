@@ -7,7 +7,7 @@
 
 	// Your GitHub API token
 	// see: https://github.com/condemil/Gist#generating-access-token
-	"token": "66ba1dd151e9d97724536fe28e649e7d479f64fc",
+	"token": "e8e690142f3fb27b693cb02afb6e02d3fb1acb34",
 
 	// Show GitHub organizations
 	"include_orgs": true,
