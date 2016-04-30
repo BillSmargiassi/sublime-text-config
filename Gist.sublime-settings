@@ -1,13 +1,13 @@
 {
 	// Your username on GitHub
-	"username": "Gist-34347999",
+	"username": "bill@smargiassi.us",
 
 	// Your password on GitHub
-	"password": "ke8fB8Eted",
+	"password": "",
 
 	// Your GitHub API token
 	// see: https://github.com/condemil/Gist#generating-access-token
-	"token": "",
+	"token": "66ba1dd151e9d97724536fe28e649e7d479f64fc",
 
 	// Show GitHub organizations
 	"include_orgs": true,
