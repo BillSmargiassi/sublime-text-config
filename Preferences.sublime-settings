@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
