@@ -1,4 +1,16 @@
 [
-	{ "keys": ["super+b"], "command": "marked" },
-	{"keys": ["super+shift+r"], "command": "reindent" , "args": {"single_line": false}}
+	{ "keys": ["super+b"], 
+		"command": "marked" 
+	},
+	{ "keys": ["super+shift+r"], 
+		"command": "reindent", 
+		"args": {"single_line": false}
+	},
+	{ "keys": ["super+alt+w"], 
+		"command": "toggle_setting",
+    	"args":
+    	{
+        	"setting": "word_wrap"
+    	}
+    }
 ]
