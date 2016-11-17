@@ -2,7 +2,8 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Source Code Pro",
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.beam"],
+    "font_face": "Source Code Pro",
 	"font_size": 14.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
