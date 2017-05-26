@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -22,7 +22,23 @@
 		".DS_Store",
 		"*.class",
 		"*.psd",
-		"*.db",
+		"*.db"
+	],
+	"binary_file_patterns": 
+	[
+		"*.jpg", 
+		"*.jpeg", 
+		"*.png", 
+		"*.gif", 
+		"*.ttf", 
+		"*.tga", 
+		"*.dds", 
+		"*.ico", 
+		"*.eot", 
+		"*.pdf", 
+		"*.swf", 
+		"*.jar", 
+		"*.zip",
 		"*.beam"
 	],
 	"font_face": "Source Code Pro",
@@ -31,11 +47,10 @@
 	"ignored_packages":
 	[
 		"Erlang",
+		"HTML Export",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
-	"soda_classic_tabs": true,
-	"soda_folder_icons": true,
 	"trim_automatic_white_space": true,
 	"word_wrap": true
 }
